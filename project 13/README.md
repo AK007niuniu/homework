@@ -81,14 +81,12 @@ def ECMH_Group(M_Set):
     return Hash[0], Hash[1]
 
 ```
-# 实验结果
-![image](https://github.com/jlwdfq/project-13/assets/129512207/bd7dd3b1-f293-4836-a0eb-de57a8fb2705)
+
 
 运行时间：0.0010013580322265625 s
 # 实验环境
 | 语言  | 系统      | 平台   | 处理器                     |
 |-------|-----------|--------|----------------------------|
 | Cpp   | Windows10 | pycharm| Intel(R) Core(TM)i7-11800H |
-# 小组分工
-戴方奇 202100460092 单人组完成project13
+
 
